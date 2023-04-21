@@ -39,3 +39,5 @@ To reiterate, OceanMD is not just a company, it is also a close-knit community o
 ## Acknowledgments
 
 Of the many acknowledgements, I thank OceanMD's VP of R&D, Jonathan Fishbein, for taking a chance with me again as their winter semester intern, as well as the co-workers I had the pleasure of working with along the way. 👋😄
+
+![team_photo](group_photo.png)
