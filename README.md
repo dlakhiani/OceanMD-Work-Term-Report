@@ -15,6 +15,7 @@ Further to my return working as a Software Engineer, I focused on developing ful
 Coming back to OceanMD reminded me of how impactful Ocean's technology really is: empowering patients to share health information with their physicians on a whim, the ability to book appointments without the need for phone calls, I could go on and on! Along with this, the culture here is incredible: a team of passionate, intelligent, and supportive developers full of banter is all you need for an entertaining time at work.
 
 ![technology_stack](tech.png)
+
 ---
 ## **Winter 2023 Goals**
 
