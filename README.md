@@ -7,7 +7,7 @@ As I sit down to write this blog post, I can't help but reflect on how much I've
 ## About OceanMD
 As a returning intern, I've been able to delve even deeper into OceanMD's flagship product, Ocean. This cloud-based platform continues to impress me with its ability to improve healthcare delivery by enabling secure sharing of health information for clinical use, administration, referrals, and research. With Ocean Tablets, Ocean Online Messages, and an extensive library of forms and questionnaires, the platform is a powerful tool for connecting patients, primary care providers, specialists, and other healthcare stakeholders.
 
-![cognisantmd_logo](logo.png)
+![oceanmd_logo](oceanmd_logo.png)
 
 ## Job Details
 Further to my return working as a Software Engineer, I focused on developing full-stack features for the Ocean Platform utilizing Vue and Java Spring. This involved designing, collaborating, developing, and testing the feature within three-week sprints. Furthermore, I also had the opportunity to work on security and privacy aspects of the product: debugging network requests and data partitioning based on authorization to name a few.
